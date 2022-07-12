@@ -12,10 +12,20 @@ body {
 #form-container {
     margin: auto;
     width: 250px;
-    border-width: 1px;
+    border-width: 2px;
     border-style: solid;
     border-color: rgb(67, 163, 230);
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 15px;
-    padding-bottom: 15px;
-    font-family: ;
+   
+    
+}
+
+.CTA {
+    background-color: rgb(67, 163, 230);
+    color:white;
+    border-radius:10px;
+    padding-top:2px;
+    padding-bottom:2px;
 }
